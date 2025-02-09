@@ -12,4 +12,4 @@ It is a popular open-source server-side scripting language designed for web deve
 
 ✅ Cross-platform (Windows, macOS, Linux)
 
-✅ Can be used for APIs, web applications, and even CLI scrip
+✅ Can be used for APIs, web applications, and even CLI scripts
