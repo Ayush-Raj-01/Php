@@ -1,4 +1,6 @@
-# PHP (Hypertext Preprocessor) is a popular open-source server-side scripting language designed for web development. It is widely used to build dynamic and interactive web pages and can be embedded within HTML.
+# PHP (Hypertext Preprocessor) 
+
+It is a popular open-source server-side scripting language designed for web development. It is widely used to build dynamic and interactive web pages and can be embedded within HTML.
 
 🔹 Key Features of PHP:
 
@@ -11,9 +13,3 @@
 ✅ Cross-platform (Windows, macOS, Linux)
 
 ✅ Can be used for APIs, web applications, and even CLI scripts
-
-🔹 Basic Example:
-
-<?php
-echo "Hello, World!";
-?>
