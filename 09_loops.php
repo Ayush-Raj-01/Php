@@ -21,3 +21,4 @@ foreach ($colors as $index => $value) {
     echo $value . " - Rs " . $price[$index] . "\n";    
 }
 
+
