@@ -6,6 +6,7 @@
     }
 
     echo "\n";
+
         // USE OF IF-ELSE STATEMENT
         // TO CHECK OF A NUMBER IS EVEN OR ODD!
             
