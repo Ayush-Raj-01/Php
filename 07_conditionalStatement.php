@@ -1,5 +1,6 @@
 <?php
         // USE OF IF STATEMENT
+
     $d = date("H");
     if($d == "Thu"){ //trim($d)===" " -> maam used
         echo "It's Thrusday.!";
@@ -19,6 +20,7 @@
     }
 
     echo "\n";
+
     // USE OF IF-ELSE STATEMENT
 
     $marks = 65;
@@ -45,6 +47,7 @@
     }
     
     echo "\n";
+
         // USE OF SWITCH CASE
 
     $num1 = 20;
