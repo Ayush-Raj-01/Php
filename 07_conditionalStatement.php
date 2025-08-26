@@ -12,6 +12,7 @@
         // TO CHECK OF A NUMBER IS EVEN OR ODD!
             
     $num = 7;
+
     if ($num % 2 == 0) {
         echo "$num is even number";
     }
