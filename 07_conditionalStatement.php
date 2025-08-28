@@ -2,7 +2,6 @@
         // USE OF IF STATEMENT
 
     $d = date("H");
-
     if($d == "Thu"){ //trim($d)===" " -> maam used
         echo "It's Thrusday.!";
     }
